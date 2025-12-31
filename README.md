@@ -36,15 +36,6 @@ En este video de 1 minuto te explico:
 - Quién lo usa
 - Cómo crear tu propio mapa conceptual con IA
 
-## 🌎 Sobre este proyecto
-
-### Creado para:
-
-- 🏆 **DoraHacks** - Track 2: Contenido Educativo
-- 🌐 **Tellus Cooperative** (@telluscoop)
-- ⭐ **Stellar Chile** (@stellar_chile)
-
-## 📚 Recursos adicionales
 
 ### Documentación oficial Stellar:
 
