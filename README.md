@@ -28,7 +28,7 @@ Incluye:
 
 # 🎬 Video explicativo (1 minuto)
 
-📺 **[Ver video en YouTube]**(https://youtu.be/NbOfPqrYFeE)
+📺 [Ver video en YouTube](https://youtu.be/NbOfPqrYFeE)
 
 En este video de 1 minuto te explico:
 - Qué es Stellar
