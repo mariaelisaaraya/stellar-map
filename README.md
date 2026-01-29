@@ -31,7 +31,7 @@ Incluye:
 📺 **[Ver video en YouTube]**(https://youtu.be/NbOfPqrYFeE)
 
 En este video de 1 minuto te explico:
-- Qué es Stellar
+- Qué es Stellar?
 - Para qué sirve
 - Quién lo usa
 - Cómo crear tu propio mapa conceptual con IA
