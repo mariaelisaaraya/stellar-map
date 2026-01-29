@@ -16,7 +16,7 @@ Incluye:
 - ✅ Adopción institucional y regional (LATAM)
 - ✅ Números del ecosistema (TVL, RWAs, volumen)
 
-## 🚀 Cómo usar el mapa
+## 🚀 Cómo usar el mapa en estos lugares
 
 ### Opción 1: Ver el mapa online en el HTML
 
